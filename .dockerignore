@@ -1,0 +1,8 @@
+Set-Content .dockerignore @"
+target/
+.git
+.gitignore
+Dockerfile
+README.md
+*.md
+"@
